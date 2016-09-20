@@ -2,7 +2,7 @@
 	//DB Credentials
 	define('DB_HOST', 'localhost');
 	define('DB_USER', 'viddyh5_bill');
-	define('DB_PW', 'H1n0str0z@93!');
+	define('DB_PW', 'Password');
 	define('DB_NAME', 'viddyh5_hut');
 	
 	//Connect to DB
